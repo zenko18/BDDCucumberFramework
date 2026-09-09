@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bdaddbf7-a338-424d-94d5-1aae6449cb0f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SimpleSourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.7471536280161732" />
+      <entry key="MS500" value="4.271309754608195" />
+      <entry key="S2" value="6.0893932582207055" />
+      <entry key="S5" value="6.611739662027242" />
+      <entry key="S10" value="6.801598921678834" />
+      <entry key="S30" value="6.939603079077625" />
+      <entry key="S60" value="7.544728577098606" />
+      <entry key="M2" value="12.934867797861216" />
+      <entry key="M5" value="39.329632175033574" />
+      <entry key="M10" value="85.65590418995976" />
+      <entry key="M15" value="123.47156074294705" />
+      <entry key="M30" value="192.78960388588465" />
+      <entry key="H1" value="250.06312863710025" />
+      <entry key="H2" value="287.8830849554717" />
+      <entry key="H4" value="309.77752594057665" />
+      <entry key="D1" value="329.7890472435023" />
+      <entry key="W1" value="333.39400726533415" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="5.318337226500169E-143" />
+      <entry key="S5" value="1.417548414152404E-57" />
+      <entry key="S10" value="4.886428752530864E-29" />
+      <entry key="S30" value="6.044854188860043E-10" />
+      <entry key="S60" value="4.330935246658148E-5" />
+      <entry key="M2" value="0.01350435298986281" />
+      <entry key="M5" value="0.5349270115400538" />
+      <entry key="M10" value="2.8146254955778325" />
+      <entry key="M15" value="5.690709330003636" />
+      <entry key="M30" value="12.555732869937293" />
+      <entry key="H1" value="19.230444687207388" />
+      <entry key="H2" value="23.966483649497864" />
+      <entry key="H4" value="26.799768021736732" />
+      <entry key="D1" value="29.43910063824745" />
+      <entry key="W1" value="29.919168937113746" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.6773005718436238" />
+      <entry key="MS500" value="4.195888615222214" />
+      <entry key="S2" value="6.060967152594248" />
+      <entry key="S5" value="6.599329692005718" />
+      <entry key="S10" value="6.7952075215851" />
+      <entry key="S30" value="6.937429250611628" />
+      <entry key="S60" value="7.5436513708487976" />
+      <entry key="M2" value="12.947468195757795" />
+      <entry key="M5" value="39.86022320556643" />
+      <entry key="M10" value="88.45944231167452" />
+      <entry key="M15" value="129.14724184711216" />
+      <entry key="M30" value="205.3286193464922" />
+      <entry key="H1" value="269.2807162865928" />
+      <entry key="H2" value="311.84154062561214" />
+      <entry key="H4" value="336.5728010768517" />
+      <entry key="D1" value="359.22732467477954" />
+      <entry key="W1" value="363.31305666788734" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3J5tEUhfLBgBQI01lGHwpFdwWL5" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: login.executor": "Run",
+    "Cucumber Java.Feature: loginpage.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "TestNG.CucumberTestRunner.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/annu/Downloads/BDDFramework/src/main/java/org/example/Main.java",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/Feature" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Feature: login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="7" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Feature/login.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="BDDFramework" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin teamcity" />
+      <option name="SUGGESTED_NAME" value="Feature: login" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Feature: login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdaddbf7-a338-424d-94d5-1aae6449cb0f" name="Changes" comment="" />
+      <created>1788962647083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788962647083</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
